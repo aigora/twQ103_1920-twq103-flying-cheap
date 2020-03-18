@@ -5,7 +5,7 @@ El proyecto consiste en crear una plataforma que permita comprar billetes de avi
 ## Integrantes del equipo
 
 * Cristina Monreal Echevarria (crism98)
-* Elisa Pelaez Peña (elisa.pelaezp)
+* Elisa Pelaez Peña (elisapelaezp)
 
 ## Lista de los objetivos que se persiguen con el trabajo propuesto.
 * Busqueda de vuelos a un destino y en unas fechas elegidas por el usuario. 
