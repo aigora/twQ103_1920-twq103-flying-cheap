@@ -1,0 +1,41 @@
+madrid londres ida turista 96
+madrid londres vuelta turista 100
+madrid londres idayvuelta turista 152
+madrid londres ida bussines 325
+madrid paris idayvuelta turista 184
+madrid paris vuelta bussines 265
+madrid paris idayvuelta bussines 402
+madrid mexico ida turista 395
+madrid mexico idayvuelta turista 1042
+madrid mexico idayvuelta bussines 2816
+madrid ny idayvuelta turista 502
+madrid ny idayvuelta bussines 1180
+madrid ny ida turista 326
+madrid ny ida bussines 710
+madrid ny vuelta turista 304
+marid ny vuelta bussines 642
+bilbao londres idayvuelta bussiness 388
+bilbao londres vuelta turista 135
+bilbao londres idayvuelta turista 217
+bilbao paris idayvuelta bussines 472
+bilbao paris idayvuelta turista 232
+bilbao paris ida turista 180
+bilbao paris vuelta bussines 308
+bilbao ny idayvuelta turista 572
+bilbao mexico idayvuelta turista 1300
+bilbao mexico idayvuelta bussines 3098
+bilbao mexico ida turista 672
+bilbao mexico vuelta turista 702
+bilbao mexico ida bussines 1568
+barcelona londres ida turista 84
+barcelona londres vuelta turista 102
+barcelona londres idayvuelta bussines 441
+barcelona londres ida bussines 292
+barcelona londres vuelta bussines 302
+cadiz londres ida turista 176
+cadiz londres vuelta turista 188
+cadiz lodnres idayvuelta turista 230
+
+
+
+
