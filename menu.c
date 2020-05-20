@@ -351,7 +351,7 @@ int main()
 
         printf("seleccione un Origen\n");
 
-        printf("Madrid\t Bilbao\t Barcelona\t Cadiz\t ");
+        printf("madrid\t bilbao\t barcelona\t cadiz\t ");
 
         scanf("%s", buscado.origen);
 
@@ -359,7 +359,7 @@ int main()
 
         printf("Seleccione un Destino\n");
 
-        printf("Londres\t Paris\t Mexico\t NY\t Maldivas\t Vietnam\t ");
+        printf("londres\t paris\t mexico\t NY\t maldivas\t vietnam\t ");
 
         scanf("%s", buscado.destino);
 
@@ -367,7 +367,7 @@ int main()
 
         scanf("%s", buscado.idayvuelta);
 
-        printf("Clase Turista Bussines\n");
+        printf("Clase turista o bussines\n");
 
         scanf("%s", buscado.clase);
 
